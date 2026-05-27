@@ -11,6 +11,4 @@ What it does
 Install
 pip install -r requirements.txt
 Run
-streamlit run navitas_nvts_predictor.py
-Important
-This is not financial advice. It is an educational research tool. NVTS is volatile and can move sharply on news, market sentiment, semiconductor momentum, and earnings expectations.
+streamlit run navitas_nvts_predictor.
